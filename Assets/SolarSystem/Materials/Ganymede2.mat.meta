@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81378ce2123a5044f97966d795fd6d46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/Ganymede2.mat
+  uploadId: 754423

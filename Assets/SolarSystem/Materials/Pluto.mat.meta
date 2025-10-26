@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10e65c908e83e2742822367483e1b8ab
+timeCreated: 1456247084
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/Pluto.mat
+  uploadId: 754423

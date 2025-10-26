@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bd31ea5a8f9637747bee6bebd78bca31
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/URP/SunFlaresURP.mat
+  uploadId: 754423

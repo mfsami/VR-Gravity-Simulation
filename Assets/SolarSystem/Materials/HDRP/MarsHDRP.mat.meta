@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d01760b7fa14e845abaa512865462ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/HDRP/MarsHDRP.mat
+  uploadId: 754423

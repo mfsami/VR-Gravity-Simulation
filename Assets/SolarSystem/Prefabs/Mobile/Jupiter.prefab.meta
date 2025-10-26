@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63cb330d08400f647bf5715d9230420b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Mobile/Jupiter.prefab
+  uploadId: 754423

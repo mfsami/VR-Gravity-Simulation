@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20a1e20fa159a844ab77ff4d5e235ca9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Neptune.prefab
+  uploadId: 754423

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db32884b27db1064d9f453a7427047a4
+timeCreated: 1457267852
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Resources/Deimos.txt
+  uploadId: 754423

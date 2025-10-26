@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4302b06c745074469f0ed43f30526d2
+timeCreated: 1457471385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/URP/Atmosphere 1.mat
+  uploadId: 754423

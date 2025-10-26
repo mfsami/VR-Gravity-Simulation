@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 125ef85540cf7914aada02c3879ffb98
+timeCreated: 1457123895
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Resources/Jupiter.txt
+  uploadId: 754423

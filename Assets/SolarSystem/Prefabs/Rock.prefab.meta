@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2c99b942c648fd4fb31746e59438100
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Rock.prefab
+  uploadId: 754423

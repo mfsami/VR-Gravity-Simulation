@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69ba980e231a5da438707ff6693933de
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Sounds/SoundCredits.txt
+  uploadId: 754423

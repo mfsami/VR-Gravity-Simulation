@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0077263767a66594fb0e301efe6cfbf5
+timeCreated: 1456433396
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/Io.mat
+  uploadId: 754423

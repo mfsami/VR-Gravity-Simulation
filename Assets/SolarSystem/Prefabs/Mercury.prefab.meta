@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10d65989ecf289147b02b256c114a91a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Mercury.prefab
+  uploadId: 754423

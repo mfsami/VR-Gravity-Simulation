@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 860a66ca4259b384f9ec01b687f71c3c
+timeCreated: 1498417791
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Skybox/MilkyWay/Material/MilkyWay.mat
+  uploadId: 754423

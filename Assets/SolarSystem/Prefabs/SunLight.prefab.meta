@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9abc2465368ce844b2da328e880037b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/SunLight.prefab
+  uploadId: 754423

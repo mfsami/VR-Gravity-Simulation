@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8eba44f39a393a4495c6941c64351c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/HDRP/DeimosHDRP.mat
+  uploadId: 754423

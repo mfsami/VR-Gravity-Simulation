@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88fce1bb87262124d86398b65660e096
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Mobile/Venus.prefab
+  uploadId: 754423

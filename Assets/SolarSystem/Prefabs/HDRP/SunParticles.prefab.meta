@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff40dbc19b0bbc24c95064d9fff418ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/HDRP/SunParticles.prefab
+  uploadId: 754423

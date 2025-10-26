@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da2241f2faab4234a89ed4177f477536
+timeCreated: 1457123895
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Resources/Saturn.txt
+  uploadId: 754423

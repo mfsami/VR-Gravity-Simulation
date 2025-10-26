@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19c814f3cc105fa43b5e65b3c2eab183
+timeCreated: 1457471385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/Atmosphere.mat
+  uploadId: 754423

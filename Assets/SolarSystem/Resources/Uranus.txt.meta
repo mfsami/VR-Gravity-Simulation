@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f65add2d66fb69541aaa403eff0c1601
+timeCreated: 1457123895
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Resources/Uranus.txt
+  uploadId: 754423

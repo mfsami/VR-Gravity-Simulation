@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5875a037364a5b4aae3536872ea7186
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/Ganymede.prefab
+  uploadId: 754423

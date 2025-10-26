@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 014b1178c886a584bb0a86315c53b1fb
+timeCreated: 1507488445
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Resources/Earth.txt
+  uploadId: 754423

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f5a44540d3113342b4d9cdf022599f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Materials/HDRP/PhobosHDRP.mat
+  uploadId: 754423

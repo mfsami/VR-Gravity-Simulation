@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b555417177661a64ba51eb8daeca3ae1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/UI/PlanetsUI.prefab
+  uploadId: 754423

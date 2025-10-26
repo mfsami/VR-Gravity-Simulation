@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3da4893b6af62cb409c4152968ae01ca
+timeCreated: 1459075422
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16139
+  packageName: Solar System
+  packageVersion: 5.0
+  assetPath: Assets/SolarSystem/Prefabs/PlanetsUI.prefab
+  uploadId: 754423
